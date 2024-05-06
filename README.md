@@ -1,1 +1,1 @@
-Project Link : [GitHub](https://sugar-co.vercel.app/)
+Project Link : (https://sugar-co.vercel.app/)
